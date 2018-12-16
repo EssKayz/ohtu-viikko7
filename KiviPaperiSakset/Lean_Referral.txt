@@ -1,0 +1,13 @@
+The Lean Primer doucment is about the different aspects of the Toyota Way, or often referred to as the Lean standard. 
+The document highlights the do's and dont's of the Lean way, and reflects on what Western companies tend to misinterpret when trying to implement the Lean standards
+to their own business practices. What is quickly learned, is that the Western culture of management is by design usually not well-suited for the Toyota Way, since 
+the companies usually already have their own ways of doing things, and the Lean standard is quite different from what is usually seen on Western companies' standards.
+The main gripes are that the Toyota Way attempts to create an atmosphere in the workplace, where everyone is seen as an intellect individual, and that their opinions 
+about how things could be changed are as valuable as the opinions of those higher up in the company hierarchy. The roles of management are also vastly different from what
+the Western standard is used to - a manager is more in the role of a teacher, trying to understand and improve the process, and help the employees to improve, essentially
+implementing a bottom-up approach on improving the production quality. This can be hard for Western management, since we are more used to managers being in a bureucratic role,
+where their main assignment is managing and taking care of top-down style assignments.
+The Lean standard builds on two pillars - Respect for people, and Continuous improvement. Both of these stand on a foundation of trust and respect, where employees and managers
+can find and fix issues in their ways of work.
+All in all, the document is an excellent reading for anyone who has yet to implement the Lean standard to their working area, aswell to those that already have it implemented,
+since odds are that there are some things that could still be refined, as the Toyota Way is quite broad to grasp on the first go.
